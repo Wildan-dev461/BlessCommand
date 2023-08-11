@@ -1,0 +1,5 @@
+# config.yml
+
+only-ingame-message: "This command can only be used in-game."
+blessed-message: "You have been blessed! Negative effects removed."
+no-bad-effect-message: "There is no bad effect to remove in your body."
