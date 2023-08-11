@@ -1,0 +1,15 @@
+name: BlessCommand
+version: 1.0.0
+api: [5.0.0]
+main: Wildan\bless\BlessCommand
+author: WildanDev
+description: A plugin to remove negative potion effects from players
+commands:
+  bless:
+    description: Remove negative effects from yourself
+    usage: /bless
+    permission: blesscommand.bless
+permissions:
+  blesscommand.bless:
+    description: Allow players to use the bless command
+    default: true
