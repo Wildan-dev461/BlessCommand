@@ -12,4 +12,4 @@ commands:
 permissions:
   blesscommand.bless:
     description: Allow players to use the bless command
-    default: true
+    default: op
